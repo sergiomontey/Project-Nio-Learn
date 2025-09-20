@@ -200,4 +200,18 @@ cd server && yarn install && yarn start
 ---
 
 ## License
-MIT (see `LICENSE`).
+Copyright (c) 2025 MonteyAI LLC. All rights reserved.
+
+This software and associated documentation files (the "Software") are proprietary 
+to MonteyAI LLC. and are protected by copyright law.
+
+VIEWING PERMITTED: This code is available for viewing, educational, and 
+evaluation purposes only.
+
+RESTRICTIONS:
+- No commercial use without explicit written permission from MONTEYcodes
+- No redistribution, modification, or derivative works
+- No reverse engineering or decompilation
+- No use in production environments without valid license
+
+
